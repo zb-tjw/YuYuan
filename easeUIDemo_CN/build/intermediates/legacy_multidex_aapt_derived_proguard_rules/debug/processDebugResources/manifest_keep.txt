@@ -1,0 +1,2 @@
+# Referenced at /Users/zb_tjw/StudioProjects/YuYuan/easeUIDemo_CN/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:90
+-keep class com.hyphenate.chatuidemo.DemoApplication { <init>(...); }

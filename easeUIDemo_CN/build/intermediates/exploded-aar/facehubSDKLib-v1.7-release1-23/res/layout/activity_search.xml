@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <RelativeLayout
+            android:id="@+id/search_title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/facehub_actionbar_height"
+            >
+            <EditText
+                android:id="@+id/edit_text_search"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:layout_toLeftOf="@+id/cancel_btn"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/radius_rectangle_white"
+                android:hint="在这里输入你要找的表情"
+                android:textSize="12sp"
+                android:textColor="#535353"
+                android:textColorHint="#e0e0e0"
+                />
+            <TextView
+                android:id="@+id/cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:gravity="center"
+                android:textSize="15sp"
+                android:text="取消"
+                android:textColor="@android:color/white"
+                />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- 热门标签&搜索记录 -->
+            <com.azusasoft.facehubcloudsdk.views.advrecyclerview.RecyclerViewEx
+                android:id="@+id/search_hot_tag_history"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/facehub_background"
+                android:visibility="gone"
+                >
+            </com.azusasoft.facehubcloudsdk.views.advrecyclerview.RecyclerViewEx>
+
+            <!-- 搜索结果 -->
+            <RelativeLayout
+                android:id="@+id/search_result"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible"
+                >
+                <com.azusasoft.facehubcloudsdk.views.viewUtils.SearchIndicator
+                    android:id="@+id/search_indicator"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+                <com.azusasoft.facehubcloudsdk.views.viewUtils.ResizablePager
+                    android:id="@+id/result_pager"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/search_indicator"
+                    />
+            </RelativeLayout>
+
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/facehub_background"
+    >
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/loading_footer"
+        android:layout_gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <com.azusasoft.facehubcloudsdk.views.viewUtils.FacehubActionbar
+            android:id="@+id/actionbar_facehub"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/facehub_actionbar_height"
+            />
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <in.srain.cube.views.GridViewWithHeaderAndFooter
+                android:id="@+id/emoticon_grid_facehub"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbarStyle="outsideOverlay"
+                android:numColumns="4"
+                android:background="@color/white"
+                android:listSelector="@android:color/transparent"
+                />
+            <com.azusasoft.facehubcloudsdk.views.viewUtils.FacehubAlertDialog
+                android:id="@+id/collect_dialog_facehub"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+            <com.azusasoft.facehubcloudsdk.views.viewUtils.Preview
+                android:id="@+id/preview_facehub"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible"
+                />
+
+
+            <com.azusasoft.facehubcloudsdk.views.viewUtils.NoNetView
+                android:id="@+id/no_net"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+
+            <include
+                android:id="@+id/unavailable_hint"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                layout="@layout/emo_package_unavailable"
+                android:visibility="gone"
+                />
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

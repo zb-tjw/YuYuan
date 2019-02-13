@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eff2f6"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ver_logo" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_weight="2.5"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#fff" >
+
+
+            <com.hyphenate.chatuidemo.utils.ClearEditText
+                android:id="@+id/username"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="left|center_vertical"
+                android:hint="@string/user_name"
+                android:background="@drawable/login_edittext_bg"
+                android:drawableLeft="@drawable/icon_user"
+                android:drawableRight="@drawable/delete_selector"
+                android:paddingLeft="10dip"
+                android:maxLines="1"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="#fff" >
+
+
+            <com.hyphenate.chatuidemo.utils.ClearEditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="left|center_vertical"
+                android:hint="@string/password"
+                android:background="@drawable/login_edittext_bg"
+                android:drawableLeft="@drawable/account_icon"
+                android:drawableRight="@drawable/delete_selector"
+                android:inputType="textPassword"
+                android:paddingLeft="10dip"
+                android:maxLines="1"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="#fff" >
+
+
+            <com.hyphenate.chatuidemo.utils.ClearEditText
+                android:id="@+id/confirm_password"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="left|center_vertical"
+                android:hint="@string/confirmpassword"
+                android:background="@drawable/login_edittext_bg"
+                android:drawableLeft="@drawable/account_icon"
+                android:drawableRight="@drawable/delete_selector"
+                android:inputType="textPassword"
+                android:paddingLeft="10dip"
+                android:maxLines="1"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="#eff2f6"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/re_userSex"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="20dp"
+                android:background="#fff"
+                android:layout_weight="1">
+
+
+            <Spinner
+                android:id="@+id/userSex"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="left|center_vertical"
+                android:background="@drawable/login_edittext_bg"
+                android:popupBackground="@drawable/login_edittext_bg"
+                android:paddingLeft="10dip"
+                android:maxLines="1"
+                android:entries="@array/sex"
+                android:prompt="@string/tjw_userSex"
+                android:textSize="18sp" />
+            </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/re_userAge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:background="#fff"
+            android:layout_weight="1">
+            <Spinner
+                android:id="@+id/userAge"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="left|center_vertical"
+                android:background="@drawable/login_edittext_bg"
+                android:popupBackground="@drawable/login_edittext_bg"
+                android:paddingLeft="10dip"
+                android:maxLines="1"
+                android:entries="@array/age"
+                android:prompt="@string/tjw_userAge"
+                android:textSize="18sp" />
+        </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="#fff" >
+
+
+            <TextView
+                android:id="@+id/userWhere"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:gravity="left|center_vertical"
+                android:background="@drawable/login_edittext_bg"
+                android:hint="@string/tjw_userWhere"
+                android:paddingLeft="10dip"
+                android:maxLines="1"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:background="@drawable/em_button_login_bg"
+                android:onClick="register"
+                android:paddingBottom="7dp"
+                android:paddingTop="7dp"
+                android:text="@string/tjw_register"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.azusasoft.facehubcloudsdk"
+    android:versionCode="1010600"
+    android:versionName="1.6.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- v1.2新增 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 旋转屏幕时用到 -->
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- <activity android:name=".activities.SDKMainActivity" -->
+        <!-- android:screenOrientation="portrait"> -->
+        <!-- &lt;!&ndash;<intent-filter>&ndash;&gt; -->
+        <!-- &lt;!&ndash;<action android:name="android.intent.action.MAIN" />&ndash;&gt; -->
+
+
+        <!-- &lt;!&ndash;<category android:name="android.intent.category.LAUNCHER" />&ndash;&gt; -->
+        <!-- &lt;!&ndash;</intent-filter>&ndash;&gt; -->
+        <!-- </activity> -->
+
+
+        <!-- 表情键盘 -->
+        <!-- <activity android:name=".activities.KeyboardActivity" -->
+        <!-- android:configChanges="orientation|keyboard|screenSize" -->
+        <!-- > -->
+        <!-- </activity> -->
+
+
+        <!-- 表情管理 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.ManageEmoticonsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" >
+        </activity>
+
+        <!-- 列表管理 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.ListsManageActivityOrigin"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" >
+        </activity>
+
+        <!-- 列表管理-新 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.ListsManageActivityNew"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" >
+        </activity>
+
+        <!-- 表情商店 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.EmoStoreActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" >
+        </activity>
+
+        <!-- 表情商店-WechatLike -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.EmoStoreActivityWC"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" />
+
+        <!-- 更多表情包 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.MorePackageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" />
+
+        <!-- 表情包详情 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.EmoPackageDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" />
+
+        <!-- 跳转网页 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.WebActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" />
+
+        <!-- 作者页 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.AuthorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" />
+
+        <!-- 搜索页 -->
+        <activity
+            android:name="com.azusasoft.facehubcloudsdk.activities.SearchActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/EmoStoreTheme" />
+
+        <meta-data
+            android:name="BUG_HD_SDK_GENERAL_KEY"
+            android:value="28b158493941533d0d682d0d4599016e" />
+    </application>
+
+</manifest>

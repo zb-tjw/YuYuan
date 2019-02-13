@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingBottom="0dp"
+        >
+        <com.azusasoft.facehubcloudsdk.views.viewUtils.RadiusLayout
+            android:id="@+id/cover_area"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@android:color/white"
+            android:layout_centerVertical="true"
+            app:layout_radius="5dp"
+            >
+            <com.azusasoft.facehubcloudsdk.views.viewUtils.SpImageView
+                android:id="@+id/cover_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"
+                android:background="@drawable/radius_rectangle_white"
+                />
+        </com.azusasoft.facehubcloudsdk.views.viewUtils.RadiusLayout>
+
+        <!-- 下载按钮 -->
+        <com.azusasoft.facehubcloudsdk.views.viewUtils.DownloadSolidBtn
+            android:id="@+id/download_solid_btn"
+            android:layout_width="75dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            />
+
+        <TextView
+            android:id="@+id/pack_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/cover_area"
+            android:layout_toLeftOf="@+id/download_btn"
+            android:layout_alignTop="@id/download_solid_btn"
+            android:layout_alignBottom="@id/download_solid_btn"
+            android:layout_marginLeft="20dp"
+            android:paddingRight="5dp"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:textColor="#323232"
+            android:singleLine="true"
+            android:text="表情包名"
+            android:textSize="15sp"
+            />
+        <TextView
+            android:id="@+id/pack_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/pack_name"
+            android:layout_below="@+id/download_solid_btn"
+            android:layout_marginTop="3dp"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:textSize="12sp"
+            android:lineSpacingMultiplier="1.1"
+            android:textColor="#989898"
+            android:text="描述了一个表情包"
+            />
+    </RelativeLayout>
+
+        <!-- 下载按钮 -->
+        <!--<com.azusasoft.facehubcloudsdk.views.viewUtils.RadiusLayout-->
+            <!--android:id="@+id/download_btn"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:layout_marginTop="17dp"-->
+            <!--app:layout_radius="5dp">-->
+            <!--<LinearLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:layout_gravity="center"-->
+                <!--&gt;-->
+                <!--<ImageView-->
+                    <!--android:id="@+id/download_icon"-->
+                    <!--android:layout_width="20dp"-->
+                    <!--android:layout_height="20dp"-->
+                    <!--android:layout_marginRight="5dp"-->
+                    <!--android:src="@drawable/download_white"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/download_text"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_gravity="center_vertical"-->
+                    <!--android:textColor="@android:color/white"-->
+                    <!--android:text="下载"-->
+                    <!--/>-->
+            <!--</LinearLayout>-->
+
+            <!--&lt;!&ndash; 进度条 &ndash;&gt;-->
+            <!--<com.azusasoft.facehubcloudsdk.views.viewUtils.CollectProgressBar-->
+                <!--android:id="@+id/progress"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="4dp"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:visibility="gone"-->
+                <!--&gt;-->
+
+            <!--</com.azusasoft.facehubcloudsdk.views.viewUtils.CollectProgressBar>-->
+        <!--</com.azusasoft.facehubcloudsdk.views.viewUtils.RadiusLayout>-->
+
+    <include
+        layout="@layout/detail_header_tail"
+        />
+</LinearLayout>

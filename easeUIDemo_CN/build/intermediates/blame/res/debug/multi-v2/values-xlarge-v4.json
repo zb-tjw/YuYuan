@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zb_tjw/StudioProjects/YuYuan/easeUIDemo_CN/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/zb_tjw/StudioProjects/YuYuan/easeUIDemo_CN/src/main/res/values-xlarge/em_dimens.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "663,716",
+                        "endColumns": "52,53",
+                        "endOffsets": "711,765"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    }
+                }
+            ]
+        }
+    ]
+}

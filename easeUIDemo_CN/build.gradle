@@ -1,0 +1,87 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '28.0.3'
+
+    /*aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false*/
+
+    defaultConfig {
+        applicationId "com.hyphenate.chatuidemo"
+        minSdkVersion 11
+        targetSdkVersion 26
+//        jackOptions {
+//            enabled true
+//        }
+        multiDexEnabled true
+    }
+
+    //655xxx的方法限制分包处理
+    dexOptions {
+        //加快编译速度
+//        incremental true
+        javaMaxHeapSize "4g"
+//      查看包冲突时冲突的包的
+        preDexLibraries = false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+
+//        signingConfigs {
+//            debug {
+//                storeFile file('debug.keystore')
+//                storePassword "android"
+//                keyAlias "androiddebugkey"
+//                keyPassword "android"
+//            }
+//        }
+
+    }
+//    compileOptions {
+//        sourceCompatibility JavaVersion.VERSION_1_8
+//        targetCompatibility JavaVersion.VERSION_1_8
+//    }
+
+}
+
+repositories {
+    flatDir {
+        dirs 'libs' //就是你放aar的目录地址
+    }
+}
+
+dependencies {
+    api project(':redpacketlibrary')
+    api project(':easeUI_CN')
+//    api files('libs/android-support-multidex.jar')
+    api files('libs/bolts-tasks-1.4.0.jar')
+    api files('libs/parse-android-1.13.0.jar')
+    api files('libs/umeng-analytics-v5.2.4.jar')
+    api files('libs/umeng-update-v2.6.0.1.jar')
+    api files('libs/gson-2.6.2.jar')
+    api files('libs/okhttp-3.3.1.jar')
+    api files('libs/okio-1.7.0.jar')
+    api files('libs/rxandroid-1.2.0.jar')
+    api files('libs/rxjava-1.1.6.jar')
+    api files('libs/BmobSDK_3.5.1_20160719.jar')
+    api project(':xAlertDialogLibrary')
+    api files('libs/ormlite-android-4.49-SNAPSHOT.jar')
+    api files('libs/ormlite-core-4.49-SNAPSHOT.jar')
+    api files('libs/SocialSDK_QQ_Simplify.jar')
+    api files('libs/SocialSDK_WeChat_Simplify.jar')
+    api files('libs/umeng_shareboard_widget.jar')
+    api files('libs/umeng_social_api.jar')
+    api files('libs/umeng_social_net.jar')
+    api files('libs/umeng_social_shareboard.jar')
+    api files('libs/umeng_social_tool.jar')
+    api files('libs/MobCommons-2017.0321.1624.jar')
+    api files('libs/MobTools-2017.0321.1624.jar')
+    api name: 'SMSSDK-2.1.4', ext: 'aar'
+    api name: 'SMSSDKGUI-2.1.4', ext: 'aar'
+
+}

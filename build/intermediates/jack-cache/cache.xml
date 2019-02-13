@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\okhttp-3.3.1.jar"
+        revision="24.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.3.1-0baa68d382e2908319655505287051c9ed5d924f.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\redpacketlibrary\unspecified\jars\libs\redpacket-3.2.0.jar"
+        revision="24.0.1"
+        sha1="63861033786f77bda012db269bdffdf220796611">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\redpacket-3.2.0-67d3dd91c5a601b5170bf24432fc91fbb6ec5ca5.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\MiPush_SDK_Client_2_2_19.jar"
+        revision="24.0.1"
+        sha1="6231c3f3409df7b3172bc5e89f68fbc6beec733e">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\MiPush_SDK_Client_2_2_19-244c9719a28e33af7956d548190efdf29f2273d8.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\SocialSDK_QQ_Simplify.jar"
+        revision="24.0.1"
+        sha1="6613d9480532b6b4d91aafd192350e0b9fcee502">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\SocialSDK_QQ_Simplify-8058abc6119d804271cd93e18cdf5f86963f807b.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\redpacketlibrary\unspecified\jars\classes.jar"
+        revision="24.0.1"
+        sha1="6a4dcc86e4ae9e3010bb253cd0de98228f88b7f2">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7b0697db5ad698dffd2a3d4493914d2e94e57233.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\ormlite-android-4.49-SNAPSHOT.jar"
+        revision="24.0.1"
+        sha1="ecfae85e17f2472852fa8298952f9d52f6a6bfa4">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\ormlite-android-4.49-SNAPSHOT-eaf1b26403677117c3ef464c55719edf902ca05c.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\redpacketlibrary\unspecified\jars\libs\volley-1.0.19.jar"
+        revision="24.0.1"
+        sha1="8a7a97f2584bf42e53fc1ae4a02ea4a6070a999a">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\volley-1.0.19-59a427b4c8003f966e604d79ff1f44d33252fb9e.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\org.apache.http.legacy.jar"
+        revision="24.0.1"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\org.apache.http.legacy-c6f2c867b0fc5b487e34eb3e5d1427b7e583c1f0.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\SocialSDK_WeChat_Simplify.jar"
+        revision="24.0.1"
+        sha1="dbad0e3e7ac8062dd9f7ce3e60ab0ddccc44553f">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\SocialSDK_WeChat_Simplify-594408be2eafcdfe00b0009957859096704db2ea.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\bolts-tasks-1.4.0.jar"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\bolts-tasks-1.4.0-2aeb8b3a72bacea3f232d48d6f91f2a512bdfe96.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng_social_shareboard.jar"
+        revision="24.0.1"
+        sha1="15bf2ed2c56319fc346f8bd98fbfbeb49e140bf5">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_shareboard-a0d37f5b17f83e3ecb3d7ba8637231d265594f09.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng_social_tool.jar"
+        revision="24.0.1"
+        sha1="37e39d974bc2e829a47881f4cf2869aaa4a7a289">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_tool-0b54b60876cd9215c5adde846c32bdf3872db467.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4644c90ffd6e40488a0f0a8624532765a150c409.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\google-play-services.jar"
+        revision="24.0.1"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\google-play-services-87038456598fa42bcbc841bbcc676bf3d252456e.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\okio-1.7.0.jar"
+        revision="24.0.1"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.7.0-86684f18d81968adf92d3bbef44faa71e2552538.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng_social_net.jar"
+        revision="24.0.1"
+        sha1="ae5e7e8f78a0b150398087327eda81f872cdcae2">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_net-24d8e6446f038822b23f99648ded909d5604260d.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\android-support-multidex.jar"
+        revision="24.0.1"
+        sha1="9a9d5c95d823ccda38f185a5f80ace6bfd61c0d5">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\android-support-multidex-f8cc1fc836e83eaaa6a999cb8106d99f046a0ad5.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\classes.jar"
+        revision="24.0.1"
+        sha1="d6a17afa75874953d448759e649c50e81c7900bd">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2f05920ccee9e640b0fc8315cdf6486f5c93318c.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\rxandroid-1.2.0.jar"
+        revision="24.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxandroid-1.2.0-f66c76167566da8330f7fd92ea4ce2437f037ccc.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\HwPush_SDK_V2705_nomap.jar"
+        revision="24.0.1"
+        sha1="d68d22f9e4842e7ea73a667df0808babf6402704">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\HwPush_SDK_V2705_nomap-b5bdca143a82d6acecb129f1556ed9134863bf42.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\hyphenatechat_3.2.0.jar"
+        revision="24.0.1"
+        sha1="0f020da1c9c98a40ac403d82cbce9adb1b4dec2b">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\hyphenatechat_3.2.0-bf7b38c223d4233754b71d2b9bbe94a179ddfe60.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\MobCommons-2017.0321.1624.jar"
+        revision="24.0.1"
+        sha1="d49d36ec407502d69c217d81a87283eba9c746b2">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\MobCommons-2017.0321.1624-7cb0ec646a6dbb7ba7415a9f0ec75b92d6580f11.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\xAlertDialogLibrary\unspecified\jars\classes.jar"
+        revision="24.0.1"
+        sha1="b7b67b16b7c0fb92bacc7657cfb2eedc6c609616">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-df6a1c4fda43674269681cec0a2e78022e3becac.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\ormlite-core-4.49-SNAPSHOT.jar"
+        revision="24.0.1"
+        sha1="9a8b276da6dada8141f614d3feba25a0e8589db7">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\ormlite-core-4.49-SNAPSHOT-35a53924ba61da5f3e4461d1bc15fb426ffc9710.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\MobTools-2017.0321.1624.jar"
+        revision="24.0.1"
+        sha1="242b3a8f9b6b47d2ea8cf932cd978a5b6651d22a">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\MobTools-2017.0321.1624-6db5f33eb3d7a04b5b09301929f2dbe674dc1073.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\glide-3.6.1.jar"
+        revision="24.0.1"
+        sha1="015a639bd9933f4f812be8bede14f14bd1bdea8b">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.6.1-2a5d7f36600b835510fb5c3001bc790c8dffb23b.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng_shareboard_widget.jar"
+        revision="24.0.1"
+        sha1="fc25e9f8df09a557374f12f1f2c4b62938af7372">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_shareboard_widget-670342aeda1ee02212071f9200f3b7f9708b4ccd.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\redpacketlibrary\unspecified\jars\libs\alipaySdk-20160516.jar"
+        revision="24.0.1"
+        sha1="3dc967df12a04b5e1fd7641a5661d159b747297f">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\alipaySdk-20160516-123b39df44a83078de81ee8e6f5495302beb675b.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\BmobSDK_3.5.1_20160719.jar"
+        revision="24.0.1"
+        sha1="a8118464e2cbf5ba630913863e9473eea365d5ca">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\BmobSDK_3.5.1_20160719-cb3703545a284fa50c4ac983cb7b67c395256ad0.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng-analytics-v5.2.4.jar"
+        revision="24.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng-analytics-v5.2.4-10acf982263f8657ab85fdf5527981c01785e8a0.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\SMSSDKGUI-2.1.4\jars\classes.jar"
+        revision="24.0.1"
+        sha1="0c606d386b68967b1b7172bd82c7e782c6e7a1d9">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-abfa4c128064a7cbab9988547da5ce9b7130cd55.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\BaiduLBS_Android.jar"
+        revision="24.0.1"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\BaiduLBS_Android-f49429c210ab0199b167eafaa9de6227eecab697.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\rxjava-1.1.6.jar"
+        revision="24.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-1.1.6-8fdda3d7180a95dadb071355b8c69e6fc6f92d61.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\YuYuan\easeUI_CN\unspecified\jars\libs\android-support-v4.jar"
+        revision="24.0.1"
+        sha1="da351fadee6981cb47e9ee685f70924283214fda">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\android-support-v4-6bc43277ed3dc5c101defcd68b713a703a383558.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\exploded-aar\SMSSDK-2.1.4\jars\classes.jar"
+        revision="24.0.1"
+        sha1="29de8afd6edd30f246bb7de991037875d0787ec6">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-36b4386c8d2cffa9a7531b758da8ffb7302e29bf.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng-update-v2.6.0.1.jar"
+        revision="24.0.1"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng-update-v2.6.0.1-940071948df7803ebecd9599232f9bf27fd859a0.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\parse-android-1.13.0.jar"
+        revision="24.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\parse-android-1.13.0-aaf20f9ea2804d73455b1e724746bdb662035a7d.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\gson-2.6.2.jar"
+        revision="24.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.6.2-97dfefaade286f1a99896e9ac4fa58393f53e156.jar" />
+    </item>
+    <item
+        jar="D:\Users\lenovo\YuYuan\easeUIDemo_CN\libs\umeng_social_api.jar"
+        revision="24.0.1"
+        sha1="35352ed1ecfb082e85996474c3048332d1374276">
+        <dex dex="D:\Users\lenovo\YuYuan\easeUIDemo_CN\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_api-55f93ee5dbb6b1d25b8238f3834c1af0f3f07b7c.jar" />
+    </item>
+
+</items>

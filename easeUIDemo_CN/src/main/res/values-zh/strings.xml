@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="read_userdetail_failed">读取用户资料失败</string>
+    <string name="content_not_block">内容不能为空</string>
+    <string name="set_age">设置年龄</string>
+    <string name="set_Sex">设置性别</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="one_to_hunderd">请输入1到200之间的整数</string>
+    <string name="man_or_woman">请输入\'男\'或者\'女\'</string>
+    <string name="bmob_icon_success">Bmob端头像修改成功</string>
+    <string name="bmob_icon_fail">Bmob端头像修改失败</string>
+    <string name="no_user">该用户不存在</string>
+    <string name="start_download">开始下载...</string>
+    <string name="download_success">下载成功</string>
+    <string name="downoad_fail">下载失败</string>
+</resources>

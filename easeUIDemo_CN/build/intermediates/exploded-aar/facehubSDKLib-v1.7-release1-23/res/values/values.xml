@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="emoji_all">
+        <item>0x1F601</item>
+        <item>0x1F602</item>
+        <item>0x1F603</item>
+        <item>0x1F604</item>
+        <item>0x1F605</item>
+        <item>0x1F606</item>
+        <item>0x1F609</item>
+        <item>0x1F60A</item>
+        <item>0x1F60B</item>
+        <item>0x1F60C</item>
+        <item>0x1F60D</item>
+        <item>0x1F60F</item>
+        <item>0x1F612</item>
+        <item>0x1F613</item>
+        <item>0x1F614</item>
+        <item>0x1F616</item>
+        <item>0x1F618</item>
+        <item>0x1F61A</item>
+        <item>0x1F61C</item>
+        <item>0x1F61D</item>
+        <item>0x1F61E</item>
+        <item>0x1F620</item>
+        <item>0x1F621</item>
+        <item>0x1F622</item>
+        <item>0x1F623</item>
+        <item>0x1F624</item>
+        <item>0x1F625</item>
+        <item>0x1F628</item>
+        <item>0x1F629</item>
+        <item>0x1F62A</item>
+        <item>0x1F62B</item>
+        <item>0x1F62D</item>
+        <item>0x1F630</item>
+        <item>0x1F631</item>
+        <item>0x1F632</item>
+        <item>0x1F633</item>
+        <item>0x1F635</item>
+        <item>0x1F637</item>
+        <item>0x1F645</item>
+        <item>0x1F646</item>
+        <item>0x1F647</item>
+        <item>0x1F648</item>
+        <item>0x1F649</item>
+        <item>0x1F64A</item>
+        <item>0x1F64B</item>
+        <item>0x1F64C</item>
+        <item>0x1F64D</item>
+        <item>0x1F64E</item>
+        <item>0x1F64F</item>
+        <item>0x2708</item>
+        <item>0x2709</item>
+        <item>0x270A</item>
+        <item>0x270B</item>
+        <item>0x2728</item>
+        <item>0x274C</item>
+        <item>0x2764</item>
+        <item>0x27A1</item>
+        <item>0x1F680</item>
+        <item>0x1F684</item>
+        <item>0x1F685</item>
+        <item>0x1F687</item>
+        <item>0x1F68C</item>
+        <item>0x1F691</item>
+        <item>0x1F692</item>
+        <item>0x1F693</item>
+        <item>0x1F6C0</item>
+        <item>0x26C4</item>
+        <item>0x26C5</item>
+        <item>0x1F319</item>
+        <item>0x1F31B</item>
+        <item>0x1F31F</item>
+        <item>0x1F342</item>
+        <item>0x1F343</item>
+        <item>0x1F349</item>
+        <item>0x1F34C</item>
+        <item>0x1F34E</item>
+        <item>0x1F37A</item>
+        <item>0x1F37B</item>
+        <item>0x1F380</item>
+        <item>0x1F381</item>
+        <item>0x1F382</item>
+        <item>0x1F384</item>
+        <item>0x1F385</item>
+        <item>0x1F389</item>
+        <item>0x1F40D</item>
+        <item>0x1F40E</item>
+        <item>0x1F412</item>
+        <item>0x1F414</item>
+        <item>0x1F435</item>
+        <item>0x1F436</item>
+        <item>0x1F437</item>
+        <item>0x1F438</item>
+        <item>0x1F446</item>
+        <item>0x1F447</item>
+        <item>0x1F448</item>
+        <item>0x1F449</item>
+        <item>0x1F44A</item>
+        <item>0x1F44B</item>
+        <item>0x1F44C</item>
+        <item>0x1F44D</item>
+        <item>0x1F44E</item>
+        <item>0x1F44F</item>
+        <item>0x1F450</item>
+        <item>0x1F451</item>
+        <item>0x1F466</item>
+        <item>0x1F467</item>
+        <item>0x1F468</item>
+        <item>0x1F469</item>
+        <item>0x1F46A</item>
+        <item>0x1F46B</item>
+        <item>0x1F46F</item>
+        <item>0x1F474</item>
+        <item>0x1F475</item>
+        <item>0x1F476</item>
+        <item>0x1F47F</item>
+        <item>0x1F480</item>
+        <item>0x1F481</item>
+        <item>0x1F484</item>
+        <item>0x1F485</item>
+        <item>0x1F486</item>
+        <item>0x1F48A</item>
+        <item>0x1F493</item>
+        <item>0x1F494</item>
+        <item>0x1F495</item>
+        <item>0x1F496</item>
+        <item>0x1F499</item>
+        <item>0x1F49A</item>
+        <item>0x1F49B</item>
+        <item>0x1F49C</item>
+        <item>0x1F49D</item>
+        <item>0x1F4A3</item>
+        <item>0x1F4A4</item>
+        <item>0x1F4A5</item>
+        <item>0x1F4A6</item>
+        <item>0x1F4A9</item>
+        <item>0x1F4AA</item>
+        <item>0x1F4AF</item>
+        <item>0x1F4B0</item>
+        <item>0x1F600</item>
+        <item>0x1F607</item>
+        <item>0x1F608</item>
+        <item>0x1F60E</item>
+        <item>0x1F610</item>
+        <item>0x1F611</item>
+        <item>0x1F615</item>
+        <item>0x1F617</item>
+        <item>0x1F619</item>
+        <item>0x1F61B</item>
+        <item>0x1F61F</item>
+        <item>0x1F626</item>
+        <item>0x1F627</item>
+        <item>0x1F62C</item>
+        <item>0x1F62E</item>
+        <item>0x1F62F</item>
+        <item>0x1F634</item>
+        <item>0x1F636</item>
+    </integer-array>
+    <string-array name="kaomoji">
+        <item>&lt;(￣︶￣)></item>
+        <item>（ˇ＾ˇ〉</item>
+        <item>[]~(￣▽￣)~*</item>
+        <item>(￣ˇ￣)</item>
+        <item>O(∩_∩)O</item>
+        <item>(+﹏+)~</item>
+        <item>╭(╯ε╰)╮</item>
+        <item>⊙﹏⊙b</item>
+        <item>o>_&lt;o</item>
+        <item>~(≧▽≦)/~</item>
+        <item>(*^__^*)</item>
+        <item>o(︶︿︶)o</item>
+        <item>o(≧v≦)o~~</item>
+        <item>\\(^ω^)/</item>
+        <item>(>^ω^&lt;)</item>
+        <item>(￣ε(#￣)</item>
+        <item>(￣.￣)</item>
+        <item>╮(￣▽￣)╭</item>
+        <item>(⊙?⊙)</item>
+        <item>Σ(° △ °｜｜｜)︴</item>
+        <item>(￣▽￣)＂</item>
+        <item>(=￣ω￣=)</item>
+        <item>(＞﹏＜)</item>
+        <item>(→_→)</item>
+        <item>(￣o￣). z Z</item>
+        <item>m( _　_ )m</item>
+        <item>Orz</item>
+        <item>囧rz</item>
+        <item>∪︿∪</item>
+        <item>￣ε ￣</item>
+        <item>￣ 3￣</item>
+        <item>⊙︿⊙</item>
+    </string-array>
+    <color name="bg_group_item_dragging_active_state">#ffee99ff</color>
+    <color name="bg_group_item_dragging_state">#ffeeccff</color>
+    <color name="bg_group_item_expanded_pressed_state">#ff99cc99</color>
+    <color name="bg_group_item_expanded_state">#ff88dd88</color>
+    <color name="bg_group_item_normal_pressed_state">#ff99cc99</color>
+    <color name="bg_group_item_normal_state">#ffddffdd</color>
+    <color name="bg_group_item_swiping_active_state">#ffbb99ff</color>
+    <color name="bg_group_item_swiping_state">#ffddccff</color>
+    <color name="bg_item_dragging_active_state">#ffff9999</color>
+    <color name="bg_item_dragging_state">#ffffdddd</color>
+    <color name="bg_item_normal_state">#fff0f0f0</color>
+    <color name="bg_item_swiping_active_state">#ff9999ff</color>
+    <color name="bg_item_swiping_state">#ffddddff</color>
+    <color name="bg_swipe_group_item_dismiss">#ff295db3</color>
+    <color name="bg_swipe_group_item_pinned">#fff45f30</color>
+    <color name="bg_swipe_item_dismiss">#ff2f8b2a</color>
+    <color name="bg_swipe_item_neutral">@android:color/transparent</color>
+    <color name="bg_swipe_item_pinned">#fff9930d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="dialog_shade">#80000000</color>
+    <color name="download_frame">#f33947</color>
+    <color name="download_frame_dark">#49a0f1</color>
+    <color name="download_frame_fin">#d2d2d2</color>
+    <color name="download_frame_fin_dark">#d2d2d2</color>
+    <color name="download_frame_fin_grey">#d2d2d2</color>
+    <color name="download_frame_fin_light">#d2d2d2</color>
+    <color name="download_frame_grey">#49a0f1</color>
+    <color name="download_frame_light">#49a0f1</color>
+    <color name="download_solid">#f33947</color>
+    <color name="download_solid_dark">#49a0f1</color>
+    <color name="download_solid_fin">#d2d2d2</color>
+    <color name="download_solid_fin_dark">#d2d2d2</color>
+    <color name="download_solid_fin_grey">#d2d2d2</color>
+    <color name="download_solid_fin_light">#d2d2d2</color>
+    <color name="download_solid_grey">#49a0f1</color>
+    <color name="download_solid_light">#49a0f1</color>
+    <color name="download_solid_text">#fff</color>
+    <color name="download_solid_text_dark">#fff</color>
+    <color name="download_solid_text_grey">#fff</color>
+    <color name="download_solid_text_light">#fff</color>
+    <color name="expandable_item_indicator_color">#42000000</color>
+    <color name="facehub_actionbar_color_wc">#f03b4c</color>
+    <color name="facehub_background">#f2f2f2</color>
+    <color name="facehub_background_wc">#ffffff</color>
+    <color name="facehub_color">#f33847</color>
+    <color name="facehub_color_dark">#ccdf2837</color>
+    <color name="go_school_theme_color">#ffe401</color>
+    <color name="grid_item_shade">#99ffffff</color>
+    <color name="header_divider_color">#d7d7d7</color>
+    <color name="kaomoji_text">#333333</color>
+    <color name="keyboard_dot_selected">#959595</color>
+    <color name="keyboard_dot_unselected">#cccccc</color>
+    <color name="keyboard_list_divider">#f2f2f2</color>
+    <color name="keyboard_scrollbar_color">#e0e0e0</color>
+    <color name="more_package_name">#333333</color>
+    <color name="more_package_subtitle">#717171</color>
+    <color name="progressbar_bg">#f2f2f2</color>
+    <color name="progressbar_bg_dark">#f2f2f2</color>
+    <color name="progressbar_bg_grey">#f2f2f2</color>
+    <color name="progressbar_bg_light">#f2f2f2</color>
+    <color name="progressbar_fin">#f33947</color>
+    <color name="progressbar_fin_dark">#49a0f1</color>
+    <color name="progressbar_fin_grey">#49a0f1</color>
+    <color name="progressbar_fin_light">#49a0f1</color>
+    <color name="progressbar_todo">#e0e0e0</color>
+    <color name="progressbar_todo_dark">#e0e0e0</color>
+    <color name="progressbar_todo_grey">#e0e0e0</color>
+    <color name="progressbar_todo_light">#e0e0e0</color>
+    <color name="send_btn_color_default">#467fff</color>
+    <color name="send_btn_color_disabled">#e6e6e6</color>
+    <color name="snackbar_action_color_done">#ffccccff</color>
+    <color name="status_bar_dark">#252728</color>
+    <color name="tab_unselected">#535353</color>
+    <color name="theme_color_blue">#49a0f1</color>
+    <color name="title_color_end">#f33947</color>
+    <color name="title_color_end_dark">#2b2929</color>
+    <color name="title_color_end_grey">#e2e2e2</color>
+    <color name="title_color_light">#fff</color>
+    <color name="title_color_start">#f14949</color>
+    <color name="title_color_start_dark">#3f3c3c</color>
+    <color name="title_color_start_grey">#fff</color>
+    <color name="title_divider">#24000000</color>
+    <color name="title_text_color">#ffffff</color>
+    <color name="title_text_color_dark">#ffffff</color>
+    <color name="title_text_color_go_school">#64220f</color>
+    <color name="title_text_color_grey">#333</color>
+    <color name="title_text_color_light">#333</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="FlowLayout"><attr format="dimension" name="lineSpacing"/><attr format="integer" name="maxLine"/></declare-styleable>
+    <declare-styleable name="RadiusLayout"><attr format="dimension" name="layout_radius"/></declare-styleable>
+    <declare-styleable name="ResizableImageView"><attr format="boolean" name="resize_by_width"/></declare-styleable>
+    <declare-styleable name="SquareImageView"><attr format="boolean" name="square_by_width"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="detail_grid_item_margin">5dp</dimen>
+    <dimen name="detail_grid_item_padding">5dp</dimen>
+    <dimen name="detail_grid_margin_sides">7dp</dimen>
+    <dimen name="detail_header_margin_sides">19dp</dimen>
+    <dimen name="download_frame_width">60dp</dimen>
+    <dimen name="download_frame_width_mini">44dp</dimen>
+    <dimen name="facehub_actionbar_height">44dp</dimen>
+    <dimen name="facehub_banner_dot_margin">2dp</dimen>
+    <dimen name="facehub_banner_dot_size">5dp</dimen>
+    <dimen name="keyboard_dot_height">6dp</dimen>
+    <dimen name="keyboard_dot_margin">3dp</dimen>
+    <dimen name="keyboard_dot_nav_margin">12dp</dimen>
+    <dimen name="keyboard_grid_item_padding">5dp</dimen>
+    <dimen name="keyboard_grid_item_width">82dp</dimen>
+    <dimen name="keyboard_grid_item_width_mini">50dp</dimen>
+    <dimen name="keyboard_grid_radius">5dp</dimen>
+    <dimen name="keyboard_list_cover_size">25dp</dimen>
+    <dimen name="keyboard_list_nav_height">37dp</dimen>
+    <dimen name="keyboard_list_nav_width">56dp</dimen>
+    <dimen name="keyboard_margin">6dp</dimen>
+    <dimen name="keyboard_preview_frame_height">143dp</dimen>
+    <dimen name="keyboard_preview_frame_width">130dp</dimen>
+    <dimen name="keyboard_preview_image_size">120dp</dimen>
+    <dimen name="keyboard_scrollbar_height">4dp</dimen>
+    <dimen name="keyboard_scrollbar_margin">5dp</dimen>
+    <dimen name="list_manage_item_height">45dp</dimen>
+    <dimen name="list_manage_subtitle_height">35dp</dimen>
+    <dimen name="section_padding_wc">10dp</dimen>
+    <integer name="expandable_item_indicator_anim_duration">200</integer>
+    <string name="agreement">服务声明</string>
+    <string name="agreement_complaint">服务声明/侵权投诉</string>
+    <string name="agreement_url">file:///android_asset/service_announcement.html</string>
+    <string name="app_name">面馆SDK</string>
+    <string name="complaint">侵权投诉</string>
+    <string name="complaint_url">file:///android_asset/Infringement_complaint.html</string>
+    <string name="copyright_hint">copyright @ </string>
+    <string name="no_not_hint">网络出错啦,请点击按钮重新加载~</string>
+    <string name="present_hint">Powered by 面馆云</string>
+    <string name="reload">重新加载</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="EmoStoreTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#989898</item>
+    </style>
+    <style name="Widget.RadiusLayout" parent="@android:style/Widget">
+    </style>
+    <style name="demo_btn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:onClick">onClick</item>
+    </style>
+    <style name="download_text_btn">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/facehub_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/radius_rectangle_white_frame</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:text">下载</item>
+    </style>
+    <style name="mode_chose_btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">1dp</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="profile_tab_text">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/facehub_color</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
